@@ -12,10 +12,10 @@ Usage
 ========
 Server mode:
 ---------
-<code>finder-1.0.jar -server [-port <port>]</code>
+<code>java -jar finder-1.0.jar -server [-port &lt;port>]</code>
 Client mode:
 -----------
-<code>finder-1.0.jar [-port <port>] [-broadcast <broadcast_address>] [-timeout <timeout>]</code>
+<code>java -jar finder-1.0.jar [-port &lt;port>] [-broadcast &lt;broadcast_address>] [-timeout &lt;timeout>]</code>
 
 Default port number is 12321.
 
